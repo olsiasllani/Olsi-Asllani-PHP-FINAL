@@ -99,7 +99,7 @@ h2{
   <ul class="cards">
     <li class="cards_item">
       <div class="card">
-        <div class="card_image"><img src="eklera.jpg" alt="mixed vegetable salad in a mason jar. "></div>
+        <div class="card_image"><img src="menu_img/eklera.jpg" alt="mixed vegetable salad in a mason jar. "></div>
         <div class="card_content">
           <h2 class="card_title">Eklera</h2>
           <div class="card_text">
@@ -112,7 +112,7 @@ h2{
 
     <li class="cards_item">
       <div class="card">
-        <div class="card_image"><img src="trileqe.jpg" alt="a Reuben sandwich on wax paper. "></div>
+        <div class="card_image"><img src="menu_img/trileqe.jpg" alt="a Reuben sandwich on wax paper. "></div>
         <div class="card_content">
           <h2 class="card_title">Trileqe</h2>
           <div class="card_text">
@@ -128,7 +128,7 @@ h2{
     </li>
     <li class="cards_item">
       <div class="card">
-        <div class="card_image"><img src="pistachioch.jpg" alt="A side view of a plate of figs and berries. "></div>
+        <div class="card_image"><img src="menu_img/pistachioch.jpg" alt="A side view of a plate of figs and berries. "></div>
         <div class="card_content">
           <h2 class="card_title">Cheesecake me krem fisteku</h2>
           <div class="card_text">
