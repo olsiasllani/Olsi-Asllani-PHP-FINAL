@@ -25,7 +25,7 @@
      
        <div class="responsive-container-block bigContainer">
   <div class="responsive-container-block Container">
-    <img class="mainImg" src="logowhite.png">
+    <img class="mainImg" src="home_img/logowhite.png">
     <div class="allText aboveText">
       <p class="text-blk headingText">
         
@@ -42,7 +42,7 @@
     </div>
   </div>
   <div class="responsive-container-block Container bottomContainer">
-    <img class="mainImg" src="logopink.png">
+    <img class="mainImg" src="home_img/logopink.png">
     <div class="allText bottomText">
       <p class="text-blk headingText">
         Our Vision
